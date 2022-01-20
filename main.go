@@ -1,5 +1,6 @@
-main Function ()
+package main
+
+function main()
 {
 
-	System.out.prinlnt("Hello");
 }
